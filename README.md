@@ -1,2 +1,3 @@
-# PlayfairNVigenere-Ciphering
-Play-fair Cipher and vigenere is a manual symmetric encryption and decryption technique.
+# DataStructure & Algorithms -Visualization
+Interactive visualization App of commonly known Data-Structures (Binary Search Tree, Linked List, Stack, Queue, and Deque,HashTable). (UNFinished)
+
